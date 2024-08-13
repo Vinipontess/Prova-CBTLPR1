@@ -1,0 +1,49 @@
+Propriedades de p1:
+Data: 15/08/24
+Hora: 14:30:45
+Nome do Paciente: Vinícius Pontes
+Nome do Médico: Dr. Tuller
+
+Digite os dados para a consulta agendada p2:
+
+Digite o dia (1 a 31): 50
+Dia inválido, tente novamente.
+Digite o dia (1 a 31): 15
+Digite o mês (1 a 12): 05
+Digite o ano (a partir de 2024): 2020
+Ano inválido, deve ser 2024 ou posterior. Tente novamente.
+Digite o ano (a partir de 2024): 2024
+Digite a hora (0 a 23): 23
+Digite o minuto (0 a 59): 60
+Minuto inválido, tente novamente.
+Digite o minuto (0 a 59): 30
+Digite o nome do paciente: 1111
+Nome inválido, deve conter apenas letras e espaços. Tente novamente.
+Digite o nome (apenas letras e espaços): Eduardo Barbosa
+Digite o nome do médico: Dra Matilde
+
+Propriedades de p2:
+Data: 15/05/24
+Hora: 23:30:00
+Nome do Paciente: Eduardo Barbosa
+Nome do Médico: Dra Matilde
+
+Digite os novos dados para substituir p1:
+
+Digite o dia (1 a 31): 30
+Digite o mês (1 a 12): 04
+Digite o ano (a partir de 2024): 2025
+Digite a hora (0 a 23): 30
+Hora inválida, tente novamente.
+Digite a hora (0 a 23): 08
+Digite o minuto (0 a 59): 20
+Digite o nome do paciente: Tuller Moraes
+Digite o nome do médico: Dr Vinicius
+
+Propriedades de p1 após substituição:
+Data: 30/04/25
+Hora: 08:20:00
+Nome do Paciente: Tuller Moraes
+Nome do Médico: Dr Vinicius
+
+Quantidade final de consultas: 2
